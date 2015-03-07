@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
   
 Main Features:
@@ -26,6 +25,3 @@ If you'd like to give me credit somewhere on your blog or tweet a shout out to [
 
 Warm Regards and Stay Creative,  
 Hossain Mohd. Faysal
-=======
-# blog 
->>>>>>> origin/gh-pages
