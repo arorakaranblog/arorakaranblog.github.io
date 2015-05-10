@@ -1,7 +1,7 @@
-title:            Jiawei's Blog
+title:            Karan's Blog
 description:      "Hello"
 logo:             logo.png
-disqus_shortname: Jiawei
+disqus_shortname: Karan
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -11,21 +11,21 @@ url:        	   ""
 
 # Owner/author information
 owner:
-  name:           Jiawei Gao
+  name:           Karan Arora
   avatar:         avatar.png
-  email:          jiawei@ucsd.edu
+  email:          mail@arorakaran.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    (=^_^=)
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/gaojiawei
-  facebook:       https://www.facebook.com/jiawei.gao.0
-  #github:         hmfaysal      
-  #instagram:      hmfaysal
+  twitter:        _karanarora
+  facebook:       karan.arora2511
+  github:         karanarora
+  instagram:      karan_trying_instagram
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/+JiaweiGao/
+#  google_plus:    https://plus.google.com/+karanarora/
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-58985509-1
+#google_analytics:   UA-58985509-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -71,86 +71,86 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'blog.arorakaran.com'
+#  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
   media: 'images'
-  metadata:
-    _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "layout"
-        field:
-          element: "hidden"
-          label: "Layout"
-          value: "post"
-      - name: "title"
-        field:
-          label: "Title"
-          element: "text"
-          value: "An Awesome Headline!"
-      - name: "description"
-        field:
-          element: "text"
-          label: "Description"
-          placeholder: "Enter Post Description"
-      - name: "headline"
-        field:
-          element: "text"
-          label: "beadline"
-          placeholder: "Enter Post Headline"
-      - name: "modified"
-        field:
-          element: "text"
-          label: "Has this page been modified?"
-          placeholder: "YYYY-MM-DD"
-      - name: "categories"
-        field:
-          element: "multiselect"
-          label: "Add categories"
-          placeholder: "Choose categories"
-          value: personal
-          options:
-            - name: "Personal"
-              value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
-            - name: "Interesting"
-              value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
-          alterable: true
-      - name: "tags"
-        field:
-          element: "text"
-          label: "Tags"
-          placeholder: "Enter tags, separated by spaces"
-      - name: "imagefeature"
-        field:
-          element: "text"
-          label: "Featured Image"
-          placeholder: "somefile.jpg"
-      - name: "mathjax"
-        field:
-          element: "checkbox"
-          label: "MathJax"
-          value: false
-      - name: "featured"
-        field:
-          element: "checkbox"
-          label: "Featured?"
-          value: false
-      - name: "comments"
-        field:
-          element: "checkbox"
-          label: "Comments"
-          value: false
+#  metadata:
+#    _posts:
+#      - name: "published"
+#        field:
+#          label: "Published"
+#          element: "checkbox"
+#          value: "true"
+#      - name: "layout"
+#        field:
+#          element: "hidden"
+#          label: "Layout"
+#          value: "post"
+#      - name: "title"
+#        field:
+#          label: "Title"
+#          element: "text"
+#          value: "An Awesome Headline!"
+#      - name: "description"
+#        field:
+#          element: "text"
+#          label: "Description"
+#          placeholder: "Enter Post Description"
+#      - name: "headline"
+#        field:
+#          element: "text"
+#          label: "beadline"
+#          placeholder: "Enter Post Headline"
+#      - name: "modified"
+#        field:
+#          element: "text"
+#          label: "Has this page been modified?"
+#          placeholder: "YYYY-MM-DD"
+#      - name: "categories"
+#        field:
+#          element: "multiselect"
+#          label: "Add categories"
+#          placeholder: "Choose categories"
+#          value: personal
+#          options:
+#            - name: "Personal"
+#              value: personal
+#            - name: "Engineering"
+#              value: engineering
+#            - name: "Physics"
+#              value: physics
+#            - name: "Psychology"
+#              value: psychology
+#            - name: "Interesting"
+#              value: interesting
+#            - name: "Web-Development"
+#              value: webdevelopment
+#          alterable: true
+#      - name: "tags"
+#        field:
+#          element: "text"
+#          label: "Tags"
+#          placeholder: "Enter tags, separated by spaces"
+#      - name: "imagefeature"
+#        field:
+#          element: "text"
+#          label: "Featured Image"
+#          placeholder: "somefile.jpg"
+#      - name: "mathjax"
+#        field:
+#          element: "checkbox"
+#          label: "MathJax"
+#          value: false
+#      - name: "featured"
+#        field:
+#          element: "checkbox"
+#          label: "Featured?"
+#          value: false
+#      - name: "comments"
+#        field:
+#          element: "checkbox"
+#          label: "Comments"
+#          value: false
 
 
 include: [".htaccess"]
