@@ -4,7 +4,7 @@ logo:             logo.png
 stay_tuned:       stayTuned.jpg
 disqus_shortname: Karan
 share:            true
-dropcap:			true
+dropcap:		  true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
@@ -13,10 +13,10 @@ url:        	   ""
 # Owner/author information
 owner:
   name:           Karan Arora
-  avatar:         avatar.png
+  avatar:         karan1.jpg
   email:          mail@arorakaran.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    (=^_^=)
+  description:    rocKing progRammer and whAt noT
   # Social networking links used in footer. Update and remove as you like.
   twitter:        _karanarora
   facebook:       karan.arora2511

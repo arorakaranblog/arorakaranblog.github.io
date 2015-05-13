@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Product Backlog Refinement
 date: 2012-02-03 18:16:59.000000000 +05:30
 categories:
