@@ -1,6 +1,7 @@
-title:            Karan's Blog
-description:      "Hello"
+title:            Only on the Internet can a person be lonely and popular at the same time
+description:      "Karan Arora | करण अरोड़ा"
 logo:             logo.png
+stay_tuned:       stayTuned.jpg
 disqus_shortname: Karan
 share:            true
 dropcap:			true
@@ -45,7 +46,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Los_Angeles
+timezone:    Asia/Kolkata
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -76,11 +77,11 @@ prose:
   media: 'images'
 #  metadata:
 #    _posts:
-#      - name: "published"
+#      - name: "Home"
 #        field:
 #          label: "Published"
-#          element: "checkbox"
 #          value: "true"
+#          stay: stayTuned.jpg
 #      - name: "layout"
 #        field:
 #          element: "hidden"

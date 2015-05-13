@@ -22,10 +22,6 @@
     </url>
     
     <url>
-        <loc>/feed.xml</loc>
-    </url>
-    
-    <url>
         <loc>/index.html</loc>
     </url>
     
@@ -46,5 +42,13 @@
     </url>
     
 
+    
+    <url>
+        <loc>/product%20development/product%20backlog/backlog%20refinement/agile/product-backlog-refinement</loc>
+    </url>
+    
+    <url>
+        <loc>/blogs/heyya</loc>
+    </url>
     
 </urlset>
