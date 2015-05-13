@@ -12,8 +12,5 @@ published: true
 imagefeature: muffy.jpg
 comments: true
 share: true
-meta:
-  _edit_last: '51117020'
-  _publicize_pending: '1'
 ---
 <p>Here is the newest addition to our family. Welcome gal!!</p>
