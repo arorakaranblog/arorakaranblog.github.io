@@ -8,6 +8,11 @@ callback([
   {
     "text": "Product Backlog Refinement",
     "href": "/product%20development/product%20backlog/backlog%20refinement/agile/product-backlog-refinement"
+  } ,
+
+  {
+    "text": "Meet Muffy",
+    "href": "/fun/random/meet-muffy"
   } 
 
 ])
