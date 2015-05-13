@@ -13,4 +13,4 @@ imagefeature: muffy.jpg
 comments: true
 share: true
 ---
-<p>Here is the newest addition to our family. Welcome gal!! </p>
+<p>Here is the newest addition to our family. Welcome gal!!</p>
