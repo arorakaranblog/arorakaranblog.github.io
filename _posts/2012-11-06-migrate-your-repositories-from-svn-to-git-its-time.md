@@ -13,38 +13,30 @@ published: true
 meta:
   _edit_last: '51117020'
   _publicize_pending: '1'
-author:
-  login: karan25
-  email: k@arorakaran.com
-  display_name: Karan Arora
-  first_name: ''
-  last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <ul>
-<li>Install <code>git-svn</code> on linux</li>
-<li>git-svn clone &lt;SVN repo link&gt; my-new-project</li>
+  <li>Install <code>git-svn</code> on linux</li>
+  <li>git-svn clone &lt;SVN repo link&gt; my-new-project</li>
 </ul>
-<p>Let's move the tags to be proper git tags,</p>
+<p>Let's move the tags to be proper git tags</p>
 <ul>
-<li>
-<pre><code>cp -Rf .git/refs/remotes/tags/* .git/refs/tags/ </code></pre>
-</li>
-<li><code>rm -Rf .git/refs/remotes/tags </code></li>
+  <li>
+    <code>cp -Rf .git/refs/remotes/tags/* .git/refs/tags/ </code>
+  </li>
+  <li><code>rm -Rf .git/refs/remotes/tags </code></li>
 </ul>
 <p>Move the references under refs/remotes:</p>
 <ul>
-<li><span style="font-family:Consolas, Monaco, monospace;font-size:12px;line-height:18px;"><code>cp -Rf .git/refs/remotes/* .git/refs/heads/ </code></span></li>
-<li><span style="font-family:Consolas, Monaco, monospace;font-size:12px;line-height:18px;"><code>rm -Rf .git/refs/remotes </code></span></li>
+  <li><span style="font-family:Consolas, Monaco, monospace;font-size:12px;line-height:18px;"><code>cp -Rf .git/refs/remotes/* .git/refs/heads/ </code></span></li>
+  <li><span style="font-family:Consolas, Monaco, monospace;font-size:12px;line-height:18px;"><code>rm -Rf .git/refs/remotes </code></span></li>
 </ul>
 <p>Add git server as remote</p>
 <ul>
-<li>
-<pre><code>  git remote add origin git@my-git-server:my-git-repo.git </code></pre>
-</li>
+  <li>
+    <code>git remote add origin git@my-git-server:my-git-repo.git</code>
+  </li>
 </ul>
 <p>Push it to github:</p>
 <ul>
-<li><span style="font-family:Consolas, Monaco, monospace;font-size:12px;line-height:18px;"><code> git push origin --all </code></span></li>
+  <li><span style="font-family:Consolas, Monaco, monospace;font-size:12px;line-height:18px;"><code> git push origin --all </code></span></li>
 </ul>
