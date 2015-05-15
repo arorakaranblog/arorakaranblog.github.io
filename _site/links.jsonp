@@ -17,7 +17,7 @@ callback([
 
   {
     "text": "Migrate your repositories from SVN to GIT, it's time !!",
-    "href": "/random/migrate-your-repositories-from-svn-to-git-its-time"
+    "href": "/source%20management/migrate-your-repositories-from-svn-to-git-its-time"
   } 
 
 ])

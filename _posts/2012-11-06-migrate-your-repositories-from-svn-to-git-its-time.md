@@ -3,10 +3,8 @@ layout: post
 title: Migrate your repositories from SVN to GIT, it's time !!
 date: 2012-11-06 10:59:04.000000000 +05:30
 categories:
-- Random
-tags:
-- git
-- svn
+- Source Management
+tags: [git,svn,linux,code]
 status: publish
 type: post
 published: true
