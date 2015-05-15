@@ -13,6 +13,11 @@ callback([
   {
     "text": "Meet Muffy",
     "href": "/fun/random/meet-muffy"
+  } ,
+
+  {
+    "text": "Migrate your repositories from SVN to GIT, it's time !!",
+    "href": "/random/migrate-your-repositories-from-svn-to-git-its-time"
   } 
 
 ])
