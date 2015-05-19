@@ -8,6 +8,8 @@ tags: []
 status: publish
 type: post
 published: true
+comments: true
+share: true
 meta:
   _edit_last: '51117020'
   _publicize_pending: '1'
