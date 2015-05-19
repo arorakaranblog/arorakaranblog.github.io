@@ -23,6 +23,11 @@ callback([
   {
     "text": "Mountain Bike vs Road Bike",
     "href": "/sports/mountain-bike-vs-road-bike"
+  } ,
+
+  {
+    "text": "Adium 1.5.6 removes support for lotus sametime!",
+    "href": "/random/adium-support-for-mac"
   } 
 
 ])
