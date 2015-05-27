@@ -32,7 +32,7 @@ callback([
 
   {
     "text": "Squash! your git commits.",
-    "href": "/github/source%20code%20management/squash-your-git-commits"
+    "href": "/github/squash-your-git-commits"
   } 
 
 ])

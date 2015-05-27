@@ -4,7 +4,6 @@ title: Squash! your git commits.
 date: 2015-05-27 14:00:01.000000000 +05:30
 categories:
 - Github
-- Source Code Management
 tags: [code,git,github,squash,commits]
 status: publish
 type: post
