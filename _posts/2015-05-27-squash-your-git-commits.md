@@ -32,6 +32,6 @@ In order to push this branch to my remote repository as a single commit follow t
 * Commits are squashed to one:
     <p><img src="{{ site.url }}/images/{{ "squash8.png" }}" /></a></p>
 4. Force push your feature branch: `git push origin Feature-branch -f`
-    <p><img src="{{ site.url }}/images/{{ "squash8.png" }}" /></a></p>
+    <p><img src="{{ site.url }}/images/{{ "squash9.png" }}" /></a></p>
     
 <p>There! your feature is pushed to a new branch as a single commit :)</p> 
